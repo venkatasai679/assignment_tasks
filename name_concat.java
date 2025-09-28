@@ -22,6 +22,6 @@ class task25{
             names += name;
         }
 
-        System.out.println("Names: " + names);
+        System.out.println(names);
     }
 }
